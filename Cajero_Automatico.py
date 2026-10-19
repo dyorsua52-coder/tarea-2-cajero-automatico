@@ -1,3 +1,6 @@
+# TAREA 2 : Cajero Automático
+# Estudiante
+# Dylan Garos Quesada 
 # Constantes
 SALDO_INICIAL = 250000
 RETIRO_MINIMO = 5000
